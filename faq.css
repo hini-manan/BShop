@@ -1,0 +1,47 @@
+#shop{
+    height: 50px;
+    float: right;
+    padding-bottom: 100px;
+}
+
+html { 
+        background: url("https://d13yacurqjgara.cloudfront.net/users/269297/screenshots/2510082/bdribbble.gif") no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+#title1{
+    text-align: center;
+    font-family: Comic Sans MS;
+    font-size: 50px;
+    color: orange;
+    padding-top: 150px;
+    padding-left: 300px;
+}
+
+#question{
+    height: 100px;
+    float: right;
+    padding-bottom: 100px;
+    padding-right: 100px;
+}
+
+#home{
+    height: 50px;
+    float: left;
+    padding-bottom: 100px;
+    padding-left: 900px;
+}
+h1{ 
+    font-family: monospace;
+}
+
+h3{
+    font-family: 'Indie Flower', cursive;
+}
+
+audio { 
+   display:none;
+}
