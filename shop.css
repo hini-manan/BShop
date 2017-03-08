@@ -144,7 +144,8 @@ audio {
 }
 
 #bo{
-    margin-right:100px;
+    margin-right:10px;
+    margin-top: 560px;
     font-size: 20px;
     font-family: 'Freckle Face', cursive;
     color: orange;
