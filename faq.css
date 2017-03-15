@@ -34,12 +34,46 @@ html {
     padding-bottom: 100px;
     padding-left: 900px;
 }
-h1{ 
+
+
+#red{
     font-family: monospace;
+    color: #FF0000;
+}
+
+#orange{
+    font-family: monospace;
+    color: #FF8B00;
+}
+
+#yellow{
+    font-family: monospace;
+    color: #FFF000;
+}
+
+#green{
+    font-family: monospace;
+    color: #4DFF00;
+}
+
+#blue{
+    font-family: monospace;
+    color: #00FFF7;
+}
+
+#indigo{
+    font-family: monospace;
+    color: #0032FF;
+}
+
+#violet{
+    font-family: monospace;
+    color: #9B00FF;
 }
 
 h3{
     font-family: 'Indie Flower', cursive;
+    color: #6A0047;
 }
 
 audio { 
